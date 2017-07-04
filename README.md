@@ -1,6 +1,7 @@
 # Alias Sampling
 ## Introduction
 这是一个O(1)时间，O(n)空间按给定权重产生随机数的算法。
+
 This is an algorithm to generating random numbers in O(1) time complexity and O(n) space complexity, where the random numbers are generated corresponding to given weights.
 ## Example
 ```
